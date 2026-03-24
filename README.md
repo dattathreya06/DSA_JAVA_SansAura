@@ -37,3 +37,33 @@ https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1
 
 Check Prime
 https://www.geeksforgeeks.org/problems/prime-number2314/1
+
+# Day4
+
+Fibanocci Number
+https://leetcode.com/problems/fibonacci-number/description/
+
+Factorial Of Number
+https://www.geeksforgeeks.org/problems/factorial5739/1
+
+Power of Two
+https://leetcode.com/problems/power-of-two/
+
+# Day5
+
+Sum of Digits
+https://www.geeksforgeeks.org/problems/sum-of-digits1742/1
+
+Perfect Number
+https://leetcode.com/problems/perfect-number/
+
+Tailing Zeroes
+https://leetcode.com/problems/factorial-trailing-zeroes/
+
+# Day6
+
+Count Primes
+https://leetcode.com/problems/count-primes/
+
+Prime Factors
+https://www.geeksforgeeks.org/problems/prime-factors5052/1
