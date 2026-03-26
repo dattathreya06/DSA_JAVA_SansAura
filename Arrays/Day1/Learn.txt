@@ -1,0 +1,7 @@
+Array Introduction Memory Layout ,indexing,Operations
+
+https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/
+
+Array Traversal Programs
+
+https://www.geeksforgeeks.org/dsa/array-data-structure-guide/

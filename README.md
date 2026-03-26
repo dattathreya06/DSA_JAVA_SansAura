@@ -67,3 +67,28 @@ https://leetcode.com/problems/count-primes/
 
 Prime Factors
 https://www.geeksforgeeks.org/problems/prime-factors5052/1
+
+# Arrays
+
+# Day1
+
+Array Introduction Memory Layout ,indexing,Operations
+
+https://www.geeksforgeeks.org/introduction-to-arrays-data-structure-and-algorithm-tutorials/
+
+Array Traversal Programs
+
+https://www.geeksforgeeks.org/dsa/array-data-structure-guide/
+
+# Day2
+
+Finding Largest Element in Array
+https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
+
+Second Largest Element
+
+https://www.geeksforgeeks.org/problems/second-largest3735/1
+
+Check If Array is Sorted
+
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
